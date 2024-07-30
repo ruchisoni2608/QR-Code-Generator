@@ -1,0 +1,9 @@
+/*@tailwind base;*/
+/*@tailwind components;*/
+/*@tailwind utilities;*/
+@import "plugins.css";
+@import "style.css";
+@import "skin/skin-1.css";
+/*@import "templete.css";*/
+@import "../plugins/revolution/revolution/css/settings.css";
+@import "../plugins/revolution/revolution/css/navigation.css";
